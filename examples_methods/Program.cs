@@ -1,9 +1,9 @@
 ﻿//Виды методов
 //Тип 1
-void Method1()
-{
-    System.Console.WriteLine("Автор ...");
-}
+// void Method1()
+// {
+//     System.Console.WriteLine("Автор ...");
+// }
 //Тип 2
 void Method2(string msg)
 {
